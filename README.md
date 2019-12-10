@@ -1,2 +1,4 @@
 # Intro_to_pytorch
-Neural Networks implementation in pytorch
+
+All notebooks from course -Introduction to Pytorch By Udacity .
+
